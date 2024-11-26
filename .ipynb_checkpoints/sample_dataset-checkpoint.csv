@@ -1,0 +1,8 @@
+Name,Age,Gender,Salary,City
+Alice,25.0,Female,50000.0,New York
+Bob,,Male,60000.0,London
+Charlie,30.0,,75000.0,Paris
+Alice,25.0,Female,50000.0,New York
+Eve,22.0,Female,48000.0,
+,29.0,Male,,Berlin
+Grace,,,52000.0,Berlin
